@@ -1,4 +1,4 @@
-// console.log('Hello World!');
+ // console.log('Hello World!');
 
 function cetakNama(nama) {
     return `halo, nama saya ${nama}`;
